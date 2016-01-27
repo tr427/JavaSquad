@@ -1,0 +1,2 @@
+# JavaSquad
+#readmes are fun!
